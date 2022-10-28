@@ -1,0 +1,15 @@
+{
+  "name": "create-block-based-theme",
+  "version": "1.0.0",
+  "description": "Block based theme starter",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "author": "Alfredo Navas",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^24.4.0"
+  }
+}
