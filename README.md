@@ -31,7 +31,6 @@ From the command line, type any of the following to perform an action:
 | Command         | Action                                                       |
 |-----------------|--------------------------------------------------------------|
 | `npm run start` | Builds assets and starts Live Reload and Browsersync servers |
-|-----------------|--------------------------------------------------------------|
 | `npm run build` | Builds production-ready assets for a deployment              |
 
 ---
